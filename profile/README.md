@@ -22,7 +22,7 @@ POFK Labs builds modular, scalable, and efficient tools across domains:
 
 * **Dart / Flutter Libraries**
 
-  * `assassins_algorithm`: 1000+ optimized algorithms & data structures.
+  * `Pofk_algorithm`: 1000+ optimized algorithms & data structures.
   * `pofk_bottom_bar`: 20+ stylish navigation bar components.
   * `pofk_appbar`: Custom top bars with high customization.
   * `pofk_drawer`: Animated drawers with creative layouts.
